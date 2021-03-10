@@ -52,4 +52,4 @@ cd notes-app && live-server
 ```
 
 
-* there may be some bugs in the code, if you could report it i'll be very happy
+* :warning there may be some bugs in the code, if you could report it i'll be very happy

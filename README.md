@@ -23,7 +23,7 @@
 
 <br />
 <div align="center">
-  <img src="https://github.com/0xb0b1/notes-app/blob/main/screenshot.jpg" width="720">
+  <img src="https://github.com/0xb0b1/notes-app/blob/master/screenshot.jpg" width="720">
 </div>
 
 # :eyes: Demo Website
@@ -52,4 +52,4 @@ cd notes-app && live-server
 ```
 
 
-## there may be some bugs in the code, if you could report it i'll be very happy
+* there may be some bugs in the code, if you could report it i'll be very happy

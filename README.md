@@ -35,7 +35,7 @@ This project was made using the follow technologies:
 * HTML
 * JavaScript
 * [BOOTSTRAP](https://getbootstrap.com/) - CSS framework
-* [GithuPages](https://www.netlify.com/) - To deploy website     
+* GithuPages - To deploy website     
 
 # :rocket: Features
 

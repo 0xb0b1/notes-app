@@ -18,7 +18,7 @@
   <img alt="" src="https://img.shields.io/github/repo-size/0xb0b1/notes-app?color=FF0000" />
 </p>
 
-> This project was made to practice the reactjs skills learned at the ignite bootcamp on rocketseat.
+> Note Taking app I built when learning Javascript and bootstrap.
 
 
 <br />
